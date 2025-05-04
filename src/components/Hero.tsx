@@ -18,7 +18,7 @@ const Hero = () => {
             Hi, my name is
           </p>
           <h1 className="text-4xl md:text-6xl font-poppins font-bold text-lightest-slate mb-4 animate-fade-in" style={{ animationDelay: "0.4s" }}>
-            John Doe.
+            Zeyad Salim.
           </h1>
           <h2 className="text-3xl md:text-5xl font-poppins font-bold text-slate mb-6 animate-fade-in" style={{ animationDelay: "0.6s" }}>
             I build things for the web.
@@ -31,7 +31,7 @@ const Hero = () => {
             <a href="#contact" className="btn-primary mr-4">Get In Touch</a>
             <a 
               href="/sample-cv.pdf" 
-              download="John-Doe-CV.pdf"
+              download="Zeyad-Salim-CV.pdf"
               className="btn-outline"
             >
               Download CV

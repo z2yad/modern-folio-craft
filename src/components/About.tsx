@@ -10,7 +10,7 @@ const About = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-10">
           <div>
             <p className="text-navy mb-4 leading-relaxed">
-              Hello! I'm John, a passionate web developer based in San Francisco, CA. I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. My goal is to always build products that provide pixel-perfect, performance-focused experiences.
+              Hello! I'm Zeyad, a passionate web developer based in San Francisco, CA. I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. My goal is to always build products that provide pixel-perfect, performance-focused experiences.
             </p>
             <p className="text-navy mb-4 leading-relaxed">
               I graduated from California State University with a degree in Computer Science in 2020. Since then, I've been honing my skills and working on various projects, from simple landing pages to complex enterprise applications.

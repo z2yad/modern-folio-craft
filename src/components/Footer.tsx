@@ -55,7 +55,7 @@ const Footer = () => {
             
             <a 
               href="/sample-cv.pdf" 
-              download="John-Doe-CV.pdf" 
+              download="Zeyad-Salim-CV.pdf" 
               className="btn-outline text-sm px-4 py-1 mb-4"
             >
               Download CV
@@ -64,7 +64,7 @@ const Footer = () => {
         </div>
         
         <div className="border-t border-lightest-navy border-opacity-30 mt-6 pt-6 text-center text-sm">
-          <p>© {currentYear} John Doe. All rights reserved.</p>
+          <p>© {currentYear} Zeyad Salim. All rights reserved.</p>
         </div>
       </div>
     </footer>
